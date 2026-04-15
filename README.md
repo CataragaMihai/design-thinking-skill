@@ -1,28 +1,28 @@
 # Design Thinking Skill for Claude
 
-A Claude Code skill that transforms Claude into a senior IDEO design engineer, guiding you through David Kelley's human-centered design process with structured facilitation, Six Thinking Hats integration, and concrete output artifacts at every phase.
+This is a Claude Code skill that transforms Claude into a senior IDEO design engineer, guiding you through David and Tom Kelley's human-centered design process, described in their book "Creative Confidence" with structured facilitation, Six Thinking Hats method integration, and concrete output artifacts at every phase.
 
 ## What it does
 
-This skill runs you through the full **Empathize > Define > Ideate > Prototype > Test** design thinking process — not as a rigid checklist, but as a living, non-linear facilitation grounded in empathy and creative confidence.
+This skill runs you through five design thinking phases: **Empathize -> Define -> Ideate -> Prototype -> Test**. This is not a rigid checklist, but  a living, non-linear facilitation framework grounded in empathy and creative confidence.
 
 **Core features:**
 
 - **Phase tracking** — Claude announces the current phase and explains transitions and loops
-- **Quick Assessment Mode** — Get a rapid structured gut-check on any idea without running the full process
-- **Six Thinking Hats integration** — De Bono's parallel thinking framework deployed at the right moments in each phase
+- **Quick Assessment Mode** — Get a rapid, structured check on any idea without running the full process
+- **Six Thinking Hats integration** — The hats represent a thinking framework, where each hat represents a core mentality you have to adopt. The framework is deployed at the right moments in each phase
 - **The Reframe Trigger** — Mandatory problem reframing before committing to a direction
-- **Concrete artifacts** — Every phase produces a specific output (Empathy Maps, POV statements, HMW questions, Idea Inventories, Prototype Briefs, Learning Captures)
-- **Filled examples** — Real worked examples for every artifact so Claude knows what good output looks like
+- **Concrete artifacts** — Every phase produces a specific output (Empathy Maps, Personas, POV statements, "How might we" questions, Idea Inventories, Prototype Briefs, Learning Captures)
+- **Filled examples** — Real worked examples for every artifact, so Claude knows what good output looks like
 
 ## Who it's for
 
-Anyone using Claude to think through product ideas, startup concepts, service design challenges, or innovation problems. Works for:
+Anyone using Claude to think through product ideas, apps, startup concepts, service design challenges, or innovation problems. Works for:
 
-- Solo founders validating an idea
+- Solo founders validating and working through an idea
 - Product teams running lightweight design sprints
 - Students learning human-centered design methodology
-- Anyone who has an idea and wants to stress-test it rigorously
+- Anyone who has an idea and wants to stress-test it rigorously and get a deeper understanding, going beyond surface level
 
 ## Installation
 
