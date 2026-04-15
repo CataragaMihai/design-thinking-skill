@@ -92,4 +92,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Contributing
 
-Found a way to improve the skill? PRs welcome. The best contributions come from people who've actually used this skill on a real project and noticed where it falls short.
+If you found a way to improve the skill, PRs are more than welcome. The best contributions come from people who've actually used this skill on a real project, and found it useful, but noticed moments when it falls short and something may be lacking. Therefore, don't hesitate to contact me!
